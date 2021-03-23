@@ -1,0 +1,36 @@
+.root{
+    -fx-font-size: 12pt;
+    -fx-font-family: "Courier New";
+    -fx-base: rgb(113, 113, 113);
+    -fx-background: rgb(180, 180, 180);
+
+}
+.button{
+    -fx-text-fill: rgb(213, 213, 213);
+    -fx-background-color: rgb(76, 76, 76);
+    -fx-background-radius: 0;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+.button:hover {
+    -fx-background-color: rgb(47, 47, 47);
+}
+.choice-box{
+    -fx-font-size: 9pt;
+    -fx-min-height: 30;
+    -fx-pref-height: 30;
+    -fx-max-height: 30;
+}
+#btnEq{
+    -fx-background-color: rgb(42, 121, 41);
+}
+#argLabel{
+    -fx-alignment: center-right;
+}
+#opLabel{
+    -fx-alignment: center;
+}
+#inputText{
+    -fx-alignment: center-right;
+    -fx-background-color: rgb(206, 206, 206);
+}

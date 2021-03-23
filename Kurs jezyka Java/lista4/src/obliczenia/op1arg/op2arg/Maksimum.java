@@ -1,0 +1,18 @@
+package obliczenia.op1arg.op2arg;
+
+import obliczenia.Wyrazenie;
+
+public class Maksimum extends Operator2Arg{
+    public Maksimum(Wyrazenie w1, Wyrazenie w2) {
+        super(w1, w2);
+    }
+
+    @Override
+    public int oblicz() {
+        return Math.max(w1.oblicz(), w2.oblicz());
+    }
+    @Override
+    public String toString() {
+        return "max( " + w1.toString() + ", " + w2.toString() + ")";
+    }
+}
