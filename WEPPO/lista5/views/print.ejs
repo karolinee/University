@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Deklaracja do druku</title>
+    <style>
+        table, th, td {
+          border: 1px solid black;
+          border-collapse: collapse;
+        }
+        th, td {
+          padding: 10px;
+          text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <table style="width:80%">
+        <tr>
+          <th colspan="2">Imię</th>
+          <td colspan="3"><%= fname%></td>
+          <th colspan="2">Nazwisko</th>
+          <td colspan="3"><%= lname%></td>
+        </tr>
+        <tr>
+            <% for(var i = 0; i < 10; i++) {%>
+                <th><%= i%></th>
+            <% }%>
+        </tr>
+        <tr>
+            <% for(var i = 0; i < 10; i++) {
+                if(tasks[i] === '') tasks[i] = 0; %>
+                <td><%= tasks[i]%></td>
+            <% }%>
+        </tr>
+
+      </table>
+</body>
+</html>

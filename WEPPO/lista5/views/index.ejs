@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Deklaracja</title>
+</head>
+<body>
+    <form method = "POST">
+        <% if (locals.error) { %> 
+            <p style="color:red"><%= error %></p>         
+        <% } %>
+        <label for="fname">Imię:</label><br>
+        <input type="text" id="fname" name="fname" value="<%= fname%>"><br>
+        <label for="lname">Nazwisko:</label><br>
+        <input type="text" id="lname" name="lname" value="<%= lname%>"><br><br>
+        <% for(var i = 0; i < 10; i++) { %> 
+            zad <%= i+1%><input type="number" name="<%= i%>" value="<%= tasks[i]%>"><br>
+        <% } %>
+        <input type="submit" value="ZAPISZ">
+    </form>
+</body>
+</html>
