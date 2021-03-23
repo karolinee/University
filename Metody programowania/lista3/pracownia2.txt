@@ -1,0 +1,46 @@
+1.
+Twierdzenie:
+Dla dowolnego xs, ys takiego że (list? xs) (list? ys) zachodzi:
+(map f (append xs ys)) = (append (map f xs) (map f ys))
+
+Dowód: Stosujemy indukcje dla list względem xs
+
+xs = null
+(map f (append null ys) = /z definicji append/ (map f ys)
+(append (map f null) (map f ys)) = /z definicji map/ (append null (map f ys)) = /z definicji append/ = (map f ys)
+
+xs = (cons z zs)
+Weźmy dowolne z i zs takie, że (list? zs) i (map f (append zs ys)) = (append (map f zs) (map f ys)) 
+Pokażemy że (map f (append (cons z zs) ys) = (append (map f (cons z zs)) (map f ys))
+(map f (append (cons z zs) ys) = /z definicji append/ (map f (cons z (append zs ys))) = /zs i ys to z założenia listy więc append się wykona/ /z definicji map/ (cons (f z) (map f (append zs ys)))
+(append (map f (cons z zs)) (map f ys)) = /z definicji map/ (append (cons (f z) (map f zs)) (map f ys)) = /zs i ys to z założenia listy więc map się wykona/ /z definicji append/ (cons (f z) (append (map f zs) (map f ys)) = /z założenia indukcyjnego/ (cons (f z) (map f (append zs ys)))
+
+Na mocy indukcji dla każdego xs, ys takiego że (list? xs) i (list? ys) zachodzi (map f (append xs ys)) = (append (map f xs) (map f ys))
+
+
+
+2.
+Twierdzenie:
+Dla dowolnego xs, ys takiego że (list? xs) (list? ys) zachodzi:
+(filter p? (append xs ys)) = (append (filter p? xs) (filter p? ys))
+
+Dowód: Stosujemy indukcje dla list względem xs
+
+xs = null
+(filter p? (append null ys) = /z definicji append/ (filter p? ys)
+(append (filter p? null) (filter p? ys)) = /z definicji filter/ (append null (filter p? ys)) = /ys to lista więc append się wykona/ /z defnicji append/ = (filter p? ys)
+
+xs = (cons z zs)
+Weźmy dowolne z i zs takie, że (list? zs) i (filter p? (append zs ys)) = (append (filter p? zs) (filter p? ys)) 
+Pokażemy że (filter p? (append (cons z zs) ys) = (append (filter p? (cons z zs)) (filter p? ys))
+
+Rozważmy przypadki:
+(p? z) jest prawdą
+(append (filter p? (cons z zs)) (filter p? ys)) = /z definicji filter/ = (append (cons z (filter p? zs)) (filter p? ys)) = /zs i ys to listy więc filter się wykona/ /z definicji append/ (cons z (append (filter p? zs) (filter p? ys))) = /z założenia indukcyjnego/ (cons z (filter p? (append zs ys)))
+(filter p? (append (cons z zs) ys)) = /z definicji append/ (filter p? (cons z (append zs ys))) = /zs i ys to listy więc append się wykona/ /z definicji filter/ (cons z (filter p? (append zs ys)))  
+
+(p? z) jest fałszem
+(append (filter p? (cons z zs)) (filter p? ys)) = /z definicji filter/ = (append (filter p? zs) (filter p? ys)) = /z założenia indukcyjnego/ = (filter p? (append zs ys)
+(filter p? (append (cons z zs) ys) = /z definicji append/ (filter p? (cons z (append zs ys))) = /zs i ys to listy więc append się wykona/ /z definicji filter/ (filter p? (append zs ys)) 
+
+Na mocy indukcji dla każdego xs, ys takiego że (list? xs) i (list? ys) zachodzi (filter p? (append xs ys)) = (append (filter p? xs) (filter p? ys))
