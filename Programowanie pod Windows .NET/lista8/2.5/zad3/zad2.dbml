@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="zad2" Class="zad2DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\sqlexpress;Initial Catalog=zad2;Integrated Security=True" SettingsObjectName="zad3.Properties.Settings" SettingsPropertyName="zad2ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.miejscowosc" Member="miejscowosc">
+    <Type Name="miejscowosc">
+      <Column Name="nazwa" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="miejscowosc_student" Member="student" ThisKey="nazwa" OtherKey="miejsceZamieszkania" Type="student" />
+    </Type>
+  </Table>
+  <Table Name="dbo.student" Member="student">
+    <Type Name="student">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="imie" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="nazwisko" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="miejsceZamieszkania" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="dataUrodzenia" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="miejscowosc_student" Member="miejscowosc" ThisKey="miejsceZamieszkania" OtherKey="nazwa" Type="miejscowosc" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

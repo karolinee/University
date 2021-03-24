@@ -1,0 +1,5 @@
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Klasa\bin\Debug\zad6Klasa.dll
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Klasa\bin\Debug\zad6Klasa.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Klasa\obj\Debug\zad6Klasa.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Klasa\obj\Debug\zad6Klasa.dll
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Klasa\obj\Debug\zad6Klasa.pdb

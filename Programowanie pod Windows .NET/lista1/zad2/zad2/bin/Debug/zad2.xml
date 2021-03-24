@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>zad2</name>
+    </assembly>
+    <members>
+        <member name="T:zad2.Grid">
+            <summary>
+            Klasa siatki dwuwymiarowej zawierająca indeksery
+            </summary>
+        </member>
+        <member name="M:zad2.Grid.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Konstruktor klasy
+            </summary>
+            <param name="x">Ilość wierszy</param>
+            <param name="y">Ilość kolumn</param>
+        </member>
+        <member name="P:zad2.Grid.Item(System.Int32)">
+            <summary>
+            Indekser jednowymiarowy
+            </summary>
+            <param name="i">Numer wiersza</param>
+            <returns>Zadany wiersz siatki</returns>
+            <remarks>Zawiera jednynie get</remarks>
+        </member>
+        <member name="P:zad2.Grid.Item(System.Int32,System.Int32)">
+            <summary>
+            Indekser jednowymiarowy
+            </summary>
+            <param name="i">Numer wiersza</param>
+            <param name="j">Numer kolumny</param>
+            <returns>Zadaną wartość z siatki</returns>
+        </member>
+        <member name="M:zad2.Program.Main(System.String[])">
+            <summary>
+            Klasa wykonująca programu 
+            </summary>
+            <remarks>
+            Testowanie implemetacji siatki dwuwymiarowej
+            </remarks>
+        </member>
+    </members>
+</doc>

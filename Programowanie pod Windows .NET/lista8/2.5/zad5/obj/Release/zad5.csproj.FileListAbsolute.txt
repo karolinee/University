@@ -1,0 +1,17 @@
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\bin\Release\zad5.exe.config
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\bin\Release\zad5.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\bin\Release\zad5.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\bin\Release\EntityFramework.dll
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\bin\Release\EntityFramework.xml
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\obj\Release\zad5.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\obj\Release\zad5.AddCity.resources
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\obj\Release\zad5.AddStudent.resources
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\obj\Release\zad5.Form1.resources
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\obj\Release\zad5.Properties.Resources.resources
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\obj\Release\zad5.csproj.GenerateResource.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\obj\Release\zad5.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\obj\Release\zad5.csproj.CopyComplete
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\obj\Release\zad5.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad5\obj\Release\zad5.pdb

@@ -1,0 +1,7 @@
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad4\obj\Debug\zad4.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad4\bin\Debug\zad4.exe.config
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad4\bin\Debug\zad4.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad4\bin\Debug\zad4.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad4\obj\Debug\zad4.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad4\obj\Debug\zad4.pdb

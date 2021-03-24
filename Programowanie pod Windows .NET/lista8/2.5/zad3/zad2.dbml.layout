@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.375, 8.5" name="zad2">
+  <DataContextMoniker Name="/zad2DataContext" />
+  <nestedChildShapes>
+    <classShape Id="837f0e4d-02d1-4a87-a54c-ad708ca06149" absoluteBounds="5.625, 1.875, 2, 1.0016910807291668">
+      <DataClassMoniker Name="/zad2DataContext/miejscowosc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e99460f5-2c0d-4137-ba91-e44c890faf99" absoluteBounds="5.64, 2.335, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="915be0fa-0123-4e56-be79-1c16677531bb" absoluteBounds="9.125, 2.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/zad2DataContext/student" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b4b9a95f-e79f-47d5-a836-b9f432dca0b8" absoluteBounds="9.14, 2.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7.625 : 2.56334554036458); (9.125 : 2.56334554036458)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/zad2DataContext/miejscowosc/miejscowosc_student" />
+      <nodes>
+        <classShapeMoniker Id="837f0e4d-02d1-4a87-a54c-ad708ca06149" />
+        <classShapeMoniker Id="915be0fa-0123-4e56-be79-1c16677531bb" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

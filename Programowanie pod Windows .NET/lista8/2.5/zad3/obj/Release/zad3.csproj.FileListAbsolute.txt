@@ -1,0 +1,7 @@
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad3\bin\Release\zad3.exe.config
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad3\bin\Release\zad3.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad3\bin\Release\zad3.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad3\obj\Release\zad3.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad3\obj\Release\zad3.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad3\obj\Release\zad3.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad3\obj\Release\zad3.pdb

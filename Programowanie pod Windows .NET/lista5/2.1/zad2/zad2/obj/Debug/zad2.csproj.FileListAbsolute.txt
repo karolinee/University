@@ -1,0 +1,10 @@
+C:\Users\karol\Documents\Programowanie pod Windows\2.1\zad2\zad2\bin\Debug\zad2.exe.config
+C:\Users\karol\Documents\Programowanie pod Windows\2.1\zad2\zad2\bin\Debug\zad2.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.1\zad2\zad2\bin\Debug\zad2.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.1\zad2\zad2\obj\Debug\zad2.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.1\zad2\zad2\obj\Debug\zad2.Properties.Resources.resources
+C:\Users\karol\Documents\Programowanie pod Windows\2.1\zad2\zad2\obj\Debug\zad2.csproj.GenerateResource.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.1\zad2\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.1\zad2\zad2\obj\Debug\zad2.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.1\zad2\zad2\obj\Debug\zad2.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.1\zad2\zad2\obj\Debug\zad2.Form1.resources

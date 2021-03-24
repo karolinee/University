@@ -1,0 +1,7 @@
+C:\Users\karol\Documents\Programowanie pod Windows\1.1\zad6\zad6\bin\Debug\zad6.exe.config
+C:\Users\karol\Documents\Programowanie pod Windows\1.1\zad6\zad6\bin\Debug\zad6.exe
+C:\Users\karol\Documents\Programowanie pod Windows\1.1\zad6\zad6\bin\Debug\zad6.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\1.1\zad6\zad6\obj\Debug\zad6.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Programowanie pod Windows\1.1\zad6\zad6\obj\Debug\zad6.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\1.1\zad6\zad6\obj\Debug\zad6.exe
+C:\Users\karol\Documents\Programowanie pod Windows\1.1\zad6\zad6\obj\Debug\zad6.pdb

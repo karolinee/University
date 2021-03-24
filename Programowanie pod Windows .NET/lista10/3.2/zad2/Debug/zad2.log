@@ -1,0 +1,3 @@
+﻿  source.cpp
+C:\Users\karol\Documents\Programowanie pod Windows\3.2\zad2\source.cpp(68,6): warning C4101: "hdc": lokalna zmienna, do której nie istnieje odwołanie
+  zad2.vcxproj -> C:\Users\karol\Documents\Programowanie pod Windows\3.2\Debug\zad2.exe

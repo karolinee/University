@@ -1,0 +1,6 @@
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad1\bin\Debug\zad1.exe.config
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad1\bin\Debug\zad1.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad1\bin\Debug\zad1.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad1\obj\Debug\zad1.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad1\obj\Debug\zad1.pdb

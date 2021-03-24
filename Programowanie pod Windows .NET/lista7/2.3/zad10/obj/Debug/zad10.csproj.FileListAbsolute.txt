@@ -1,0 +1,6 @@
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad10\bin\Debug\zad10.exe.config
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad10\bin\Debug\zad10.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad10\bin\Debug\zad10.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad10\obj\Debug\zad10.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad10\obj\Debug\zad10.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad10\obj\Debug\zad10.pdb

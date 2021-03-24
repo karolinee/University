@@ -1,0 +1,7 @@
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad7\bin\Debug\zad7.exe.config
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad7\bin\Debug\zad7.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad7\bin\Debug\zad7.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad7\obj\Debug\zad7.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad7\obj\Debug\zad7.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad7\obj\Debug\zad7.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.4\zad7\obj\Debug\zad7.pdb

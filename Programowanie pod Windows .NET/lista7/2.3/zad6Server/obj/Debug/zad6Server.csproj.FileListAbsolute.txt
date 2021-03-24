@@ -1,0 +1,10 @@
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Server\bin\Debug\zad6Server.exe.config
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Server\bin\Debug\zad6Server.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Server\bin\Debug\zad6Server.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Server\obj\Debug\zad6Server.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Server\obj\Debug\zad6Server.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Server\obj\Debug\zad6Server.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Server\obj\Debug\zad6Server.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Server\bin\Debug\zad6Klasa.dll
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Server\bin\Debug\zad6Klasa.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad6Server\obj\Debug\zad6Server.csproj.CopyComplete

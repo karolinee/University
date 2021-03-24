@@ -1,0 +1,7 @@
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad11\obj\Debug\zad11.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad11\obj\Debug\zad11.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad11\bin\Debug\zad11.exe.config
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad11\bin\Debug\zad11.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad11\bin\Debug\zad11.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad11\obj\Debug\zad11.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.3\2.3\zad11\obj\Debug\zad11.pdb

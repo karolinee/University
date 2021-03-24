@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/3c291bc2-4495-4932-be84-5b91b52b7206.htm" />
+  <HelpTOCNode Id="3d4246e3-81dd-4009-b466-a21e3888d91b" Title="Version History" Url="html/30ecf45e-2a1f-42e1-b644-5256af7b7e44.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/f8bdcb8c-0c27-4eb3-90d2-e3a3fdc43a6e.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="7024890b-d8d4-48b9-8410-372c6d27bd70" Title="zad2" Url="html/931c0cc8-12a2-06f1-c7de-4ba3baba6fdc.htm">
+    <HelpTOCNode Id="ee50802f-65d8-441c-99dc-c5cc28209e23" Title="Grid Class" Url="html/4a4e8ebe-0037-86f6-0dc1-64c2be477f58.htm">
+      <HelpTOCNode Title="Grid Constructor " Url="html/b0f5b5cc-a2d6-2992-752f-770fcbdfa98f.htm" />
+      <HelpTOCNode Id="7879de9f-f377-4831-a429-17e4a50bc746" Title="Grid Properties" Url="html/d70115c7-ff3a-70c6-38e3-bd0059e8f6ad.htm">
+        <HelpTOCNode Id="e8ee8468-85f7-4b8c-b5a1-24942dbae539" Title="Item Property " Url="html/82f2b3de-7a28-1d18-7f89-9adda4b7c482.htm">
+          <HelpTOCNode Title="Item Property (Int32)" Url="html/5e4dc914-89cf-b027-72de-f3db3c6aa9d7.htm" />
+          <HelpTOCNode Title="Item Property (Int32, Int32)" Url="html/0d02300c-4f31-806b-3b9b-0387016e3615.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="3c211ac4-b112-4f07-a51b-8689c82aca1f" Title="Grid Fields" Url="html/ab4552b9-e087-0158-3483-87a47b2f1442.htm">
+        <HelpTOCNode Title="_grid Field" Url="html/df9a9f96-3e81-8748-a3b1-456c8e876b73.htm" />
+        <HelpTOCNode Title="columns Field" Url="html/44cf3d7a-1e45-c0dd-de45-9c6dbf0504b6.htm" />
+        <HelpTOCNode Title="rows Field" Url="html/90c66192-b0db-7a6b-5c80-f1f2a19d5a8d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c4b4f470-8299-458b-bd6f-23e69120a81e" Title="Program Class" Url="html/6342f35f-6778-61bf-e1e3-cd0a4c507786.htm">
+      <HelpTOCNode Title="Program Constructor " Url="html/1fa5ba38-f542-5e64-ccae-f4387092f000.htm" />
+      <HelpTOCNode Id="1e043048-051b-472e-9b24-4eaa6c1ab2b5" Title="Program Methods" Url="html/2da10f20-fe5f-3a28-653f-f738659c0df0.htm">
+        <HelpTOCNode Title="Main Method " Url="html/753fa389-f52d-111e-5b81-2b7722361191.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

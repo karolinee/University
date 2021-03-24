@@ -1,0 +1,6 @@
+﻿  source.cpp
+C:\Users\karol\Documents\Programowanie pod Windows\3.1\zad3\source.cpp(103,1): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\karol\Documents\Programowanie pod Windows\3.1\zad3\source.cpp(131,1): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\karol\Documents\Programowanie pod Windows\3.1\zad3\source.cpp(136,1): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\karol\Documents\Programowanie pod Windows\3.1\zad3\source.cpp(156,35): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  zad3.vcxproj -> C:\Users\karol\Documents\Programowanie pod Windows\3.1\Debug\zad3.exe

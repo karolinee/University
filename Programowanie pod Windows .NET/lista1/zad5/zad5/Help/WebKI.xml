@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="columns field" Url="html/44cf3d7a-1e45-c0dd-de45-9c6dbf0504b6.htm" />
+  <HelpKINode Title="Grid class">
+    <HelpKINode Title="Grid Class" Url="html/4a4e8ebe-0037-86f6-0dc1-64c2be477f58.htm" />
+    <HelpKINode Title="constructor" Url="html/b0f5b5cc-a2d6-2992-752f-770fcbdfa98f.htm" />
+    <HelpKINode Title="fields" Url="html/ab4552b9-e087-0158-3483-87a47b2f1442.htm" />
+    <HelpKINode Title="properties" Url="html/d70115c7-ff3a-70c6-38e3-bd0059e8f6ad.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Grid.columns field" Url="html/44cf3d7a-1e45-c0dd-de45-9c6dbf0504b6.htm" />
+  <HelpKINode Title="Grid.Grid constructor" Url="html/b0f5b5cc-a2d6-2992-752f-770fcbdfa98f.htm" />
+  <HelpKINode Title="Grid.Item property" Url="html/82f2b3de-7a28-1d18-7f89-9adda4b7c482.htm" />
+  <HelpKINode Title="Grid.rows field" Url="html/90c66192-b0db-7a6b-5c80-f1f2a19d5a8d.htm" />
+  <HelpKINode Title="Grid._grid field" Url="html/df9a9f96-3e81-8748-a3b1-456c8e876b73.htm" />
+  <HelpKINode Title="Item property" Url="html/82f2b3de-7a28-1d18-7f89-9adda4b7c482.htm" />
+  <HelpKINode Title="Main method" Url="html/753fa389-f52d-111e-5b81-2b7722361191.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/6342f35f-6778-61bf-e1e3-cd0a4c507786.htm" />
+    <HelpKINode Title="constructor" Url="html/1fa5ba38-f542-5e64-ccae-f4387092f000.htm" />
+    <HelpKINode Title="methods" Url="html/2da10f20-fe5f-3a28-653f-f738659c0df0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.Main method" Url="html/753fa389-f52d-111e-5b81-2b7722361191.htm" />
+  <HelpKINode Title="Program.Program constructor" Url="html/1fa5ba38-f542-5e64-ccae-f4387092f000.htm" />
+  <HelpKINode Title="rows field" Url="html/90c66192-b0db-7a6b-5c80-f1f2a19d5a8d.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/f8bdcb8c-0c27-4eb3-90d2-e3a3fdc43a6e.htm" />
+    <HelpKINode Title="history" Url="html/30ecf45e-2a1f-42e1-b644-5256af7b7e44.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/3c291bc2-4495-4932-be84-5b91b52b7206.htm" />
+  <HelpKINode Title="zad2 namespace" Url="html/931c0cc8-12a2-06f1-c7de-4ba3baba6fdc.htm" />
+  <HelpKINode Title="zad2.Grid class" Url="html/4a4e8ebe-0037-86f6-0dc1-64c2be477f58.htm" />
+  <HelpKINode Title="zad2.Program class" Url="html/6342f35f-6778-61bf-e1e3-cd0a4c507786.htm" />
+  <HelpKINode Title="_grid field" Url="html/df9a9f96-3e81-8748-a3b1-456c8e876b73.htm" />
+</HelpKI>

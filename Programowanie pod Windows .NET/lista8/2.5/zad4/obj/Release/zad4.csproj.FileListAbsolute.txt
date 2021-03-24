@@ -1,0 +1,12 @@
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\bin\Release\zad4.exe.config
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\bin\Release\zad4.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\bin\Release\zad4.pdb
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\bin\Release\EntityFramework.dll
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\bin\Release\EntityFramework.xml
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\obj\Release\zad4.csprojAssemblyReference.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\obj\Release\zad4.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\obj\Release\zad4.csproj.CopyComplete
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\obj\Release\zad4.exe
+C:\Users\karol\Documents\Programowanie pod Windows\2.5\zad4\obj\Release\zad4.pdb

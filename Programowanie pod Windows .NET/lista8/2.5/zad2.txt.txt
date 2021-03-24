@@ -1,0 +1,8 @@
+Komentarz do zadania 2:
+Została utworzona baza danych zad2. Zawiera dwie tabele: student i miejscowość. 
+Tabela student ma 5 atrybutów: id (automatyczna sekwencja, klucz główny), imie, nazwisko, dataUrodzenia, miejsceZamieszkania (klucz obcy).
+Tabela miejscowosc ma 1 atrybut: nazwa (klucz główny).
+
+W celu połączenia tabeli relacją jeden do wielu została stworzona dodatkowa (względem treści zadania) kolumna w tabeli studenci - miejsceZamieszkania, której wartością jest klucz obcy. 
+Tym kluczem obcym jest nazwa z tabeli miejscowość. 
+

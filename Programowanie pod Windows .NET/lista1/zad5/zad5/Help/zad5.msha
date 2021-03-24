@@ -1,0 +1,20 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Dokumentacja implementacji siatki dwuwymiarowej</title>
+</head>
+<body class="vendor-book">
+    <div class="details">
+        <span class="vendor">Vendor Name</span>
+        <span class="locale">en-us</span>
+        <span class="product">Dokumentacja implementacji siatki dwuwymiarowej</span>
+        <span class="name">Dokumentacja implementacji siatki dwuwymiarowej</span>
+    </div>
+    <div class="package-list">
+        <div class="package">
+            <!-- NOTE: The "name" span value cannot contain any periods! -->
+            <span class="name">zad5</span>
+            <a class="current-link" href="zad5.mshc">zad5.mshc</a>
+        </div>
+    </div>
+</body>
+</html>
